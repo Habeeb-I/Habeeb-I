@@ -52,6 +52,10 @@ I'm Habeeb, a Mechanical Engineering graduate & Robotics graduate, now aspiring 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+Markdown   30 mins         ███████████████████████░░   91.63 % 
+YAML       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+```
 <!--END_SECTION:waka-->
 
 #### Github Stats
