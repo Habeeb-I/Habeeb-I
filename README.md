@@ -53,8 +53,8 @@ I'm Habeeb, a Mechanical Engineering graduate & Robotics graduate, now aspiring 
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   30 mins         ███████████████████████░░   91.63 % 
-YAML       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Markdown   1 hr 28 mins    ███████████████████████▓░   95.20 % 
+YAML       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 ```
 <!--END_SECTION:waka-->
 
