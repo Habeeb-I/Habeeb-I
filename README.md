@@ -53,7 +53,7 @@ I'm Habeeb, a Mechanical Engineering graduate & Robotics graduate, now aspiring 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 24 mins    █████████████████████████   100.00 % 
+JavaScript   2 hrs 27 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
