@@ -54,9 +54,9 @@ I'm Habeeb, a Mechanical Engineering graduate & Robotics graduate, now aspiring 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 25 mins   ████████████████████████▓   99.09 %
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+JavaScript   1 hr 9 mins     ████████████████████████▓   98.46 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
